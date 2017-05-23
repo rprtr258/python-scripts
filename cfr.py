@@ -11,5 +11,5 @@ for s in str:
     t = s[s.find("status-frame-datatable") - 14 + 1 : (s[s.find("status-frame-datatable") - 14 + 1:]).find("</table>") + 1]
     t = ("</tr>".join((t[t.find("<tr data-submission-id"):len(t) - 21]).split("</tr>"))).replace("    \\r\\n\\r\\n\\r\\n\\r\\n\\r\\n", "")
     t = t.split("<a")
-    rows += [kappa[kappa.find('\"') + 1 : kappa.find('\"', kappa.find('\"') + 1) - 1] for kappa in t if kappa.find("submissionVerdictWrapper") != -1]
+    rows += [kappa[kappa.find('\"') + 1 : kappa.find('\"', kappa.find('\"') + 1)] for kappa in t if kappa.find("submissionVerdictWrapper") != -1]
 print(random.choice(rows))
