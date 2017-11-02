@@ -125,10 +125,11 @@ while True:
     users = parseUsers(source, columns)
     
     if columns != savedColumns or users != savedUsers:
+        print("\7", end = "")
         timestamp = time.strftime("%Y-%m-%d %I:%M:%S %p", time.localtime())
         changes = getChanges(savedColumns, columns, savedUsers, users)
         print("\n".join([timestamp + ": " + log for log in changes]))
-        with open("log.txt", "w") as file:
+        with open("log.txt", "w+") as file:
             file.write("\n".join([timestamp + ": " + log for log in changes]))
     
     if users != savedUsers:
