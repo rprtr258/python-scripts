@@ -75,6 +75,7 @@ def parseUsers(source, columns):
 
 def getChanges(savedColumns, columns, savedUsers, users):
     renames = {
+        "task" : "no submissions",
         "task task-with-submissions" : "\"first solution sent\"",
         "task task-with-notes" : "\"added notes\"",
         "task task-with-new-submissions-and-notes" : "\"new submission sent\"",
@@ -91,8 +92,8 @@ def getChanges(savedColumns, columns, savedUsers, users):
             if columns[i] == [""]:
                 continue
             res.append("added pack %s" % (columns[i][0]))
-            for task in columns[1 :]:
-                res.sppend("added task %s.%s" % (columns[i][0], task))
+            for task in columns[i][1 :]:
+                res.append("added task %s.%s" % (columns[i][0], task))
         return res
     for i in range(len(users)):
         if users[i] == savedUsers[i]:
@@ -133,12 +134,12 @@ while True:
             file.write("\n".join([timestamp + ": " + log for log in changes]))
     
     if users != savedUsers:
-        with open("save.txt", "wb") as file:
-            pickle.dump(savedColumns, file)
-            pickle.dump(savedUsers, file)
-            
         savedSource = source
         savedColumns = columns
         savedUsers = users
+            
+        with open("save.txt", "wb") as file:
+            pickle.dump(savedColumns, file)
+            pickle.dump(savedUsers, file)
         
     time.sleep(5)
