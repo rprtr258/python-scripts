@@ -76,10 +76,10 @@ def parseUsers(source, columns):
 def getChanges(savedColumns, columns, savedUsers, users):
     renames = {
         "task" : "no submissions",
-        "task task-with-submissions" : "\"first solution sent\"",
-        "task task-with-notes" : "\"added notes\"",
-        "task task-with-new-submissions-and-notes" : "\"new submission sent\"",
-        "task accepted-task" : "\"solution accepted\""
+        "task task-with-submissions" : "first solution sent",
+        "task task-with-notes" : "added notes",
+        "task task-with-new-submissions-and-notes" : "new submission sent",
+        "task accepted-task" : "solution accepted"
     }
     medals = {
         "EEC900" : "gold",
@@ -107,7 +107,7 @@ def getChanges(savedColumns, columns, savedUsers, users):
                 if columns[j] == [""]:
                     res.append("%s got %s medal for pack %s!" % (users[i][0], medals[users[i][j][k]], columns[j - 1][0]))
                 else:
-                    res.append("%s changed task %s.%s state from %s to %s" % (users[i][0], columns[j][0], columns[j][k + 1], renames[savedUsers[i][j][k]], renames[users[i][j][k]]))
+                    res.append("%s changed task %s.%s state from \"%s\" to \"%s\"" % (users[i][0], columns[j][0], columns[j][k + 1], renames[savedUsers[i][j][k]], renames[users[i][j][k]]))
     return res
 
 

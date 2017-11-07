@@ -1,4 +1,1 @@
-2017-11-04 12:23:43 AM: added pack №6
-2017-11-04 12:23:43 AM: added task №6.1
-2017-11-04 12:23:43 AM: added task №6.2
-2017-11-04 12:23:43 AM: added task №6.3
+2017-11-07 08:53:33 PM: ПолетанскийВиктор changed task №6.2 state from no submissions to "first solution sent"
