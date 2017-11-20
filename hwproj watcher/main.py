@@ -94,20 +94,28 @@ def getChanges(savedColumns, columns, savedUsers, users):
             res.append("added pack %s" % (columns[i][0]))
             for task in columns[i][1 :]:
                 res.append("added task %s.%s" % (columns[i][0], task))
-        return res
+                
     for i in range(len(users)):
         if users[i] == savedUsers[i]:
             continue
         for j in range(len(users[i])):
-            if users[i][j] == savedUsers[i][j]:
+            if j < len(savedUsers[i]) and users[i][j] == savedUsers[i][j]:
                 continue
             for k in range(len(users[i][j])):
-                if users[i][j][k] == savedUsers[i][j][k]:
+                if j < len(savedUsers[i]) and users[i][j][k] == savedUsers[i][j][k] or users[i][j][k] == "task" or users[i][j][k] == "":
                     continue
                 if columns[j] == [""]:
                     res.append("%s got %s medal for pack %s!" % (users[i][0], medals[users[i][j][k]], columns[j - 1][0]))
                 else:
-                    res.append("%s changed task %s.%s state from \"%s\" to \"%s\"" % (users[i][0], columns[j][0], columns[j][k + 1], renames[savedUsers[i][j][k]], renames[users[i][j][k]]))
+                    username = users[i][0]
+                    task = columns[j][0] + "." + columns[j][k + 1]
+                    if j > 2:
+                        if j < len(savedUsers[i]):
+                            res.append("%s changed task %s state from \"%s\" to \"%s\"" % (username, task, renames[savedUsers[i][j][k]], renames[users[i][j][k]]))
+                        else:
+                            res.append("%s changed task %s state to \"%s\"" % (username, task, renames[users[i][j][k]]))
+                    else:
+                        res.append("%s changed todos %s to %s" % (username, savedUsers[i][1][0], users[i][1][0]))
     return res
 
 
@@ -138,7 +146,7 @@ while True:
         savedColumns = columns
         savedUsers = users
             
-        with open("save.txt", "wb") as file:
+        with open("save.txt", "wb+") as file:
             pickle.dump(savedColumns, file)
             pickle.dump(savedUsers, file)
         
