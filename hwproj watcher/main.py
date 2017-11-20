@@ -81,6 +81,13 @@ def getChanges(savedColumns, columns, savedUsers, users):
         "task task-with-new-submissions-and-notes" : "new submission sent",
         "task accepted-task" : "solution accepted"
     }
+    messageColor = {
+        "task" : "0;30;47",
+        "task task-with-submissions" : "1;32;45",
+        "task task-with-notes" : "1;33;41",
+        "task task-with-new-submissions-and-notes" : "2;31;43",
+        "task accepted-task" : "1;37;42"
+    }
     medals = {
         "EEC900" : "gold",
         "B0A6A4" : "silver",
@@ -105,17 +112,18 @@ def getChanges(savedColumns, columns, savedUsers, users):
                 if j < len(savedUsers[i]) and users[i][j][k] == savedUsers[i][j][k] or users[i][j][k] == "task" or users[i][j][k] == "":
                     continue
                 if columns[j] == [""]:
-                    res.append("%s got %s medal for pack %s!" % (users[i][0], medals[users[i][j][k]], columns[j - 1][0]))
+                    res.append("\x1b[%sm%s got %s medal for pack %s!\x1b[0m" % ("4;35;40", users[i][0], medals[users[i][j][k]], columns[j - 1][0]))
                 else:
                     username = users[i][0]
                     task = columns[j][0] + "." + columns[j][k + 1]
                     if j > 2:
+                        messageCol = messageColor[users[i][j][k]]
                         if j < len(savedUsers[i]):
-                            res.append("%s changed task %s state from \"%s\" to \"%s\"" % (username, task, renames[savedUsers[i][j][k]], renames[users[i][j][k]]))
+                            res.append("\x1b[%sm%s changed task %s state from \"%s\" to \"%s\"\x1b[0m" % (messageCol, username, task, renames[savedUsers[i][j][k]], renames[users[i][j][k]]))
                         else:
-                            res.append("%s changed task %s state to \"%s\"" % (username, task, renames[users[i][j][k]]))
+                            res.append("\x1b[%sm%s changed task %s state to \"%s\"\x1b[0m" % (messageCol, username, task, renames[users[i][j][k]]))
                     else:
-                        res.append("%s changed todos %s to %s" % (username, savedUsers[i][1][0], users[i][1][0]))
+                        res.append("\x1b[%sm%s changed todos %s to %s\x1b[0m" % ("3;32;40", username, savedUsers[i][1][0], users[i][1][0]))
     return res
 
 
