@@ -1,7 +1,8 @@
 import urllib.request, time, pickle
  
 def getURL(url):
-	return urllib.request.urlopen(url).read().decode()
+    pageSource = urllib.request.urlopen(url).read().decode()
+    return pageSource
     
 def extractColumn(str):
     res = []
@@ -22,10 +23,10 @@ def extractGlyphicon(str):
     str = str[: str.find("\"")]
     return str
     
-def parseInfo(info, columns):
+def parseRow(info, columns):
     i = 0
     res = []
-    for column in columns[1 :]:
+    for column in columns:
         currentRow = []
         if column != [""]:
             for j in range(len(column) - 1):
@@ -38,39 +39,42 @@ def parseInfo(info, columns):
     return res
     
 def parseColumns(source):
-    table = source[source.find("<div id=\"course_table\"") : source.find("<h2>Задачи</h2>")]
+    table = source[source.find("<div id=\"course_table\"") : source.find("</table>")]
 
     tableHead = table.split("</thead>")[0]
-    tableColumns1 = tableHead.split("</tr>")[0].split("</td>")[: -1]
-    tableColumns2 = tableHead.split("</tr>")[1].split("</td>")[: -1]
+    tableRows = tableHead.split("</tr>")
+    tableColumns1 = tableRows[0].split("</td>")[: -1]
+    tableColumns2 = tableRows[1].split("</td>")[: -1]
     tableColumns1 = [extractColumn(s) for s in tableColumns1]
     tableColumns2 = [extractColumn(s) for s in tableColumns2]
 
-    columns = [[tableColumns1[0]]]
-    j = 1
-    for i in range(1, len(tableColumns1)):
-        columnGroup = [tableColumns1[i]]
-        if tableColumns1[i] != "":
-            while tableColumns2[j] != "":
+    columns = []
+    j = 0
+    for i in range(len(tableColumns1)):
+        mainColumn = tableColumns1[i]
+        if j >= len(tableColumns2):
+            print(columns)
+        else:
+            columnGroup = [mainColumn, tableColumns2[j]]
+        j += 1
+        if columnGroup[1] != "":
+            while j < len(tableColumns2) and tableColumns2[j] != "":
                 columnGroup.append(tableColumns2[j])
                 j += 1
-        else:
-            j += 1
         columns.append(columnGroup)
     return columns
 
 def parseUsers(source, columns):
-    table = source[source.find("<div id=\"course_table\"") : source.find("<h2>Задачи</h2>")]
-
+    table = source[source.find("<div id=\"course_table\"") : source.find("</table>")]
     tableBody = table.split("</thead>")[1]
-    
     tableRows = tableBody.split("</tr>")[: -1]
     
     rows = [["<td" + x for x in s.split("<td")][1 :] for s in tableRows]
     rows = [[extractColumn(s[0])] + [extractColumn(s[1])] + [x[x.find("class=\"") + 7 :] for x in s[2 :]] for s in rows]
     rows = [s[: 2] + [(extractGlyphicon(x) if x.find("separator") != -1 else x[: x.find("\"")]) for x in s[2 :]] for s in rows]
+    
+    users = [parseRow(row, columns) for row in rows]
 
-    users = [[info[0]] + parseInfo(info[1 :], columns) for info in rows]
     return users
 
 def getChanges(savedColumns, columns, savedUsers, users):
@@ -95,47 +99,65 @@ def getChanges(savedColumns, columns, savedUsers, users):
     }
     res = []
     if len(columns) > len(savedColumns):
-        for i in range(len(savedColumns), len(columns)):
-            if columns[i] == [""]:
+        for i in range(max(3, len(savedColumns)), len(columns)):
+            pack = columns[i][0]
+            if pack == "":
                 continue
-            res.append("added pack %s" % (columns[i][0]))
-            for task in columns[i][1 :]:
-                res.append("added task %s.%s" % (columns[i][0], task))
+            tasks = [task for task in columns[i][1 :] if task != ""]
+            res.append("added pack %s: %s" % (pack, ", ".join(tasks)))
                 
     for i in range(len(users)):
-        if users[i] == savedUsers[i]:
+        user = users[i]
+        if i <= len(savedUsers):
+            res.append("%s user appeared" % (user[0][0]))
+            savedUsers.append(user[:])
+            for j in range(len(user)):
+                savedUsers[i][j] = ["task" if note.find("task") != -1 else note for note in user[j]]
+                
+    for i in range(len(users)):
+        user = users[i]
+        savedUser = savedUsers[i]
+        if user == savedUser:
             continue
-        for j in range(len(users[i])):
-            if j < len(savedUsers[i]) and users[i][j] == savedUsers[i][j]:
+        for j in range(len(user)):
+            if j < len(savedUser) and user[j] == savedUser[j]:
                 continue
-            for k in range(len(users[i][j])):
-                if j < len(savedUsers[i]) and users[i][j][k] == savedUsers[i][j][k] or users[i][j][k] == "task" or users[i][j][k] == "":
+            for k in range(len(user[j])):
+                if j < len(savedUser) and user[j][k] == savedUser[j][k]:
+                    continue
+                if user[j][k] == "task" and user[j][k] == "":
                     continue
                 if columns[j] == [""]:
-                    res.append("\x1b[%sm%s got %s medal for pack %s!\x1b[0m" % ("4;35;40", users[i][0], medals[users[i][j][k]], columns[j - 1][0]))
+                    res.append("\x1b[%sm%s got %s medal for pack %s!\x1b[0m" % ("4;35;40", user[0], medals[user[j][k]], columns[j - 1][0]))
+                    res.append("name: %s" % (user[0]))
+                    res.append("medal: %s" % (medals[user[j][k]]))
+                    res.append("medal color: %s" % (user[j][k]))
+                    res.append("pack: %s" % (columns[j - 1][0]))
                 else:
-                    username = users[i][0]
+                    username = user[0][0]
                     task = columns[j][0] + "." + columns[j][k + 1]
                     if j > 2:
-                        messageCol = messageColor[users[i][j][k]]
-                        if j < len(savedUsers[i]):
-                            res.append("\x1b[%sm%s changed task %s state from \"%s\" to \"%s\"\x1b[0m" % (messageCol, username, task, renames[savedUsers[i][j][k]], renames[users[i][j][k]]))
+                        messageCol = messageColor[user[j][k]]
+                        if j < len(savedUser):
+                            res.append("\x1b[%sm%s changed task %s state from \"%s\" to \"%s\"\x1b[0m" % (messageCol, username, task, renames[savedUser[j][k]], renames[user[j][k]]))
                         else:
-                            res.append("\x1b[%sm%s changed task %s state to \"%s\"\x1b[0m" % (messageCol, username, task, renames[users[i][j][k]]))
+                            res.append("\x1b[%sm%s changed task %s state to \"%s\"\x1b[0m" % (messageCol, username, task, renames[user[j][k]]))
                     else:
-                        res.append("\x1b[%sm%s changed todos %s to %s\x1b[0m" % ("3;32;40", username, savedUsers[i][1][0], users[i][1][0]))
+                        res.append("\x1b[%sm%s changed todos %s to %s\x1b[0m" % ("3;32;40", username, savedUser[1][0], user[1][0]))
     return res
-
 
 savedSource = getURL("http://hwproj.me/courses/24")
 savedColumns, savedUsers = [], []
-with open("save.txt", "rb") as file:
-    savedColumns = pickle.load(file)
-    savedUsers = pickle.load(file)
+try:
+   with open("save.txt", "rb") as file:
+       savedColumns = pickle.load(file)
+       savedUsers = pickle.load(file)
+except:
+   pass
 
 while True:
     source = getURL("http://hwproj.me/courses/24")
-    if source == savedSource: # may be commented out
+    if source == savedSource:
         time.sleep(5)
         continue
     columns = parseColumns(source)
@@ -157,5 +179,5 @@ while True:
         with open("save.txt", "wb+") as file:
             pickle.dump(savedColumns, file)
             pickle.dump(savedUsers, file)
-        
+
     time.sleep(5)

@@ -1,136 +1,407 @@
-2017-11-20 10:52:48 AM: added pack №8
-2017-11-20 10:52:48 AM: added task №8.1
-2017-11-20 10:52:48 AM: added task №8.2
-2017-11-20 10:52:48 AM: added task №8.3
-2017-11-20 10:52:48 AM: added pack №9
-2017-11-20 10:52:48 AM: added task №9.1
-2017-11-20 10:52:48 AM: added task №9.2
-2017-11-20 10:52:48 AM: added task №9.3
-2017-11-20 10:52:48 AM: [3;32;40mБакироваАнна changed todos 24 to 27[0m
-2017-11-20 10:52:48 AM: [1;37;42mБакироваАнна changed task №2.1 state from "first solution sent" to "solution accepted"[0m
-2017-11-20 10:52:48 AM: [1;32;45mБакироваАнна changed task №3.3 state from "no submissions" to "first solution sent"[0m
-2017-11-20 10:52:48 AM: [1;37;42mБакироваАнна changed task Тест1.1 state from "new submission sent" to "solution accepted"[0m
-2017-11-20 10:52:48 AM: [1;33;41mБакироваАнна changed task Тест1.2 state from "first solution sent" to "added notes"[0m
-2017-11-20 10:52:48 AM: [1;37;42mБакироваАнна changed task №6.1 state from "first solution sent" to "solution accepted"[0m
-2017-11-20 10:52:48 AM: [3;32;40mДегтяревИван changed todos 15 to 16[0m
-2017-11-20 10:52:48 AM: [1;37;42mДегтяревИван changed task Тест1.1 state from "new submission sent" to "solution accepted"[0m
-2017-11-20 10:52:48 AM: [1;37;42mДегтяревИван changed task №4.2 state from "new submission sent" to "solution accepted"[0m
-2017-11-20 10:52:48 AM: [1;37;42mДегтяревИван changed task №4.3 state from "new submission sent" to "solution accepted"[0m
-2017-11-20 10:52:48 AM: [1;37;42mДегтяревИван changed task №4.4 state from "new submission sent" to "solution accepted"[0m
-2017-11-20 10:52:48 AM: [1;37;42mДегтяревИван changed task №4.5 state from "new submission sent" to "solution accepted"[0m
-2017-11-20 10:52:48 AM: [4;35;40mДегтяревИван got silver medal for pack №4![0m
-2017-11-20 10:52:48 AM: [2;31;43mДегтяревИван changed task №5.1 state from "first solution sent" to "new submission sent"[0m
-2017-11-20 10:52:48 AM: [2;31;43mДегтяревИван changed task №5.2 state from "first solution sent" to "new submission sent"[0m
-2017-11-20 10:52:48 AM: [2;31;43mДегтяревИван changed task №5.3 state from "first solution sent" to "new submission sent"[0m
-2017-11-20 10:52:48 AM: [2;31;43mДегтяревИван changed task №5.4 state from "first solution sent" to "new submission sent"[0m
-2017-11-20 10:52:48 AM: [2;31;43mДегтяревИван changed task №6.1 state from "first solution sent" to "new submission sent"[0m
-2017-11-20 10:52:48 AM: [1;32;45mДегтяревИван changed task №6.2 state from "no submissions" to "first solution sent"[0m
-2017-11-20 10:52:48 AM: [1;32;45mДегтяревИван changed task №6.3 state from "no submissions" to "first solution sent"[0m
-2017-11-20 10:52:48 AM: [1;32;45mДегтяревИван changed task №7.1 state from "no submissions" to "first solution sent"[0m
-2017-11-20 10:52:48 AM: [1;32;45mДегтяревИван changed task №7.2 state from "no submissions" to "first solution sent"[0m
-2017-11-20 10:52:48 AM: [1;32;45mДегтяревИван changed task №7.3 state from "no submissions" to "first solution sent"[0m
-2017-11-20 10:52:48 AM: [1;32;45mДегтяревИван changed task №8.1 state to "first solution sent"[0m
-2017-11-20 10:52:48 AM: [3;32;40mДементьевАлександр changed todos 26 to 31[0m
-2017-11-20 10:52:48 AM: [2;31;43mДементьевАлександр changed task №1.6 state from "added notes" to "new submission sent"[0m
-2017-11-20 10:52:48 AM: [2;31;43mДементьевАлександр changed task №1.10 state from "added notes" to "new submission sent"[0m
-2017-11-20 10:52:48 AM: [2;31;43mДементьевАлександр changed task №2.3 state from "added notes" to "new submission sent"[0m
-2017-11-20 10:52:48 AM: [2;31;43mДементьевАлександр changed task №2.4 state from "added notes" to "new submission sent"[0m
-2017-11-20 10:52:48 AM: [2;31;43mДементьевАлександр changed task №2.5 state from "added notes" to "new submission sent"[0m
-2017-11-20 10:52:48 AM: [2;31;43mДементьевАлександр changed task №3.1 state from "added notes" to "new submission sent"[0m
-2017-11-20 10:52:48 AM: [1;32;45mДементьевАлександр changed task №3.2 state from "no submissions" to "first solution sent"[0m
-2017-11-20 10:52:48 AM: [1;32;45mДементьевАлександр changed task №3.4 state from "no submissions" to "first solution sent"[0m
-2017-11-20 10:52:48 AM: [1;33;41mДементьевАлександр changed task Тест1.1 state from "new submission sent" to "added notes"[0m
-2017-11-20 10:52:48 AM: [1;37;42mДементьевАлександр changed task Тест1.2 state from "first solution sent" to "solution accepted"[0m
-2017-11-20 10:52:48 AM: [1;32;45mДементьевАлександр changed task №4.1 state from "no submissions" to "first solution sent"[0m
-2017-11-20 10:52:48 AM: [1;32;45mДементьевАлександр changed task №4.3 state from "no submissions" to "first solution sent"[0m
-2017-11-20 10:52:48 AM: [1;32;45mДементьевАлександр changed task №4.4 state from "no submissions" to "first solution sent"[0m
-2017-11-20 10:52:48 AM: [3;32;40mЗайцевДмитрий changed todos 18 to 24[0m
-2017-11-20 10:52:48 AM: [2;31;43mЗайцевДмитрий changed task №3.4 state from "added notes" to "new submission sent"[0m
-2017-11-20 10:52:48 AM: [1;33;41mЗайцевДмитрий changed task Тест1.1 state from "new submission sent" to "added notes"[0m
-2017-11-20 10:52:48 AM: [1;33;41mЗайцевДмитрий changed task Тест1.2 state from "first solution sent" to "added notes"[0m
-2017-11-20 10:52:48 AM: [1;33;41mЗайцевДмитрий changed task №4.1 state from "first solution sent" to "added notes"[0m
-2017-11-20 10:52:48 AM: [1;33;41mЗайцевДмитрий changed task №4.3 state from "first solution sent" to "added notes"[0m
-2017-11-20 10:52:48 AM: [1;33;41mЗайцевДмитрий changed task №4.4 state from "first solution sent" to "added notes"[0m
-2017-11-20 10:52:48 AM: [2;31;43mЗайцевДмитрий changed task №6.1 state from "no submissions" to "new submission sent"[0m
-2017-11-20 10:52:48 AM: [1;37;42mКидянкинМихаил changed task Тест1.2 state from "new submission sent" to "solution accepted"[0m
-2017-11-20 10:52:48 AM: [1;37;42mКидянкинМихаил changed task №4.2 state from "first solution sent" to "solution accepted"[0m
-2017-11-20 10:52:48 AM: [1;37;42mКидянкинМихаил changed task №4.3 state from "first solution sent" to "solution accepted"[0m
-2017-11-20 10:52:48 AM: [1;37;42mКидянкинМихаил changed task №4.5 state from "first solution sent" to "solution accepted"[0m
-2017-11-20 10:52:48 AM: [4;35;40mКидянкинМихаил got gold medal for pack №4![0m
-2017-11-20 10:52:48 AM: [1;37;42mКидянкинМихаил changed task №5.1 state from "first solution sent" to "solution accepted"[0m
-2017-11-20 10:52:48 AM: [1;32;45mКидянкинМихаил changed task №5.2 state from "no submissions" to "first solution sent"[0m
-2017-11-20 10:52:48 AM: [2;31;43mКидянкинМихаил changed task №5.3 state from "first solution sent" to "new submission sent"[0m
-2017-11-20 10:52:48 AM: [2;31;43mКидянкинМихаил changed task №5.4 state from "first solution sent" to "new submission sent"[0m
-2017-11-20 10:52:48 AM: [1;37;42mКидянкинМихаил changed task №6.1 state from "first solution sent" to "solution accepted"[0m
-2017-11-20 10:52:48 AM: [1;32;45mКидянкинМихаил changed task №6.2 state from "no submissions" to "first solution sent"[0m
-2017-11-20 10:52:48 AM: [3;32;40mКрупинаВалерия changed todos 17 to 20[0m
-2017-11-20 10:52:48 AM: [1;37;42mКрупинаВалерия changed task №4.1 state from "first solution sent" to "solution accepted"[0m
-2017-11-20 10:52:48 AM: [1;37;42mКрупинаВалерия changed task №4.2 state from "first solution sent" to "solution accepted"[0m
-2017-11-20 10:52:48 AM: [1;32;45mКрупинаВалерия changed task №4.3 state from "no submissions" to "first solution sent"[0m
-2017-11-20 10:52:48 AM: [1;33;41mКрупинаВалерия changed task №5.4 state from "first solution sent" to "added notes"[0m
-2017-11-20 10:52:48 AM: [1;37;42mКрупинаВалерия changed task №6.1 state from "first solution sent" to "solution accepted"[0m
-2017-11-20 10:52:48 AM: [3;32;40mКузьминЮрий changed todos 21 to 26[0m
-2017-11-20 10:52:48 AM: [2;31;43mКузьминЮрий changed task №1.8 state from "added notes" to "new submission sent"[0m
-2017-11-20 10:52:48 AM: [2;31;43mКузьминЮрий changed task №3.1 state from "added notes" to "new submission sent"[0m
-2017-11-20 10:52:48 AM: [2;31;43mКузьминЮрий changed task №3.4 state from "added notes" to "new submission sent"[0m
-2017-11-20 10:52:48 AM: [1;33;41mКузьминЮрий changed task Тест1.1 state from "new submission sent" to "added notes"[0m
-2017-11-20 10:52:48 AM: [1;33;41mКузьминЮрий changed task Тест1.2 state from "new submission sent" to "added notes"[0m
-2017-11-20 10:52:48 AM: [2;31;43mКузьминЮрий changed task №4.1 state from "first solution sent" to "new submission sent"[0m
-2017-11-20 10:52:48 AM: [1;33;41mКузьминЮрий changed task №4.3 state from "first solution sent" to "added notes"[0m
-2017-11-20 10:52:48 AM: [1;33;41mКузьминЮрий changed task №4.4 state from "first solution sent" to "added notes"[0m
-2017-11-20 10:52:48 AM: [1;33;41mКузьминЮрий changed task №4.5 state from "first solution sent" to "added notes"[0m
-2017-11-20 10:52:48 AM: [1;33;41mКузьминЮрий changed task №5.2 state from "first solution sent" to "added notes"[0m
-2017-11-20 10:52:48 AM: [1;37;42mКузьминЮрий changed task №5.3 state from "first solution sent" to "solution accepted"[0m
-2017-11-20 10:52:48 AM: [3;32;40mЛеоноваАнна changed todos 21 to 25[0m
-2017-11-20 10:52:48 AM: [1;33;41mЛеоноваАнна changed task №2.3 state from "new submission sent" to "added notes"[0m
-2017-11-20 10:52:48 AM: [1;33;41mЛеоноваАнна changed task №3.1 state from "new submission sent" to "added notes"[0m
-2017-11-20 10:52:48 AM: [1;37;42mЛеоноваАнна changed task №3.2 state from "first solution sent" to "solution accepted"[0m
-2017-11-20 10:52:48 AM: [2;31;43mЛеоноваАнна changed task №4.1 state from "first solution sent" to "new submission sent"[0m
-2017-11-20 10:52:48 AM: [1;37;42mЛеоноваАнна changed task №4.2 state from "first solution sent" to "solution accepted"[0m
-2017-11-20 10:52:48 AM: [1;33;41mЛеоноваАнна changed task №4.3 state from "first solution sent" to "added notes"[0m
-2017-11-20 10:52:48 AM: [1;33;41mЛеоноваАнна changed task №4.4 state from "first solution sent" to "added notes"[0m
-2017-11-20 10:52:48 AM: [1;33;41mЛеоноваАнна changed task №4.5 state from "first solution sent" to "added notes"[0m
-2017-11-20 10:52:48 AM: [1;33;41mЛеоноваАнна changed task №5.3 state from "first solution sent" to "added notes"[0m
-2017-11-20 10:52:48 AM: [1;33;41mЛеоноваАнна changed task №5.4 state from "first solution sent" to "added notes"[0m
-2017-11-20 10:52:48 AM: [1;32;45mЛеоноваАнна changed task №6.1 state from "no submissions" to "first solution sent"[0m
-2017-11-20 10:52:48 AM: [3;32;40mПолетанскийВиктор changed todos 15 to 18[0m
-2017-11-20 10:52:48 AM: [2;31;43mПолетанскийВиктор changed task №4.1 state from "first solution sent" to "new submission sent"[0m
-2017-11-20 10:52:48 AM: [2;31;43mПолетанскийВиктор changed task №4.2 state from "first solution sent" to "new submission sent"[0m
-2017-11-20 10:52:48 AM: [2;31;43mПолетанскийВиктор changed task №4.3 state from "first solution sent" to "new submission sent"[0m
-2017-11-20 10:52:48 AM: [1;37;42mПолетанскийВиктор changed task №4.4 state from "first solution sent" to "solution accepted"[0m
-2017-11-20 10:52:48 AM: [2;31;43mПолетанскийВиктор changed task №4.5 state from "first solution sent" to "new submission sent"[0m
-2017-11-20 10:52:48 AM: [2;31;43mПолетанскийВиктор changed task №5.1 state from "first solution sent" to "new submission sent"[0m
-2017-11-20 10:52:48 AM: [1;37;42mПолетанскийВиктор changed task №5.2 state from "first solution sent" to "solution accepted"[0m
-2017-11-20 10:52:48 AM: [2;31;43mПолетанскийВиктор changed task №5.3 state from "first solution sent" to "new submission sent"[0m
-2017-11-20 10:52:48 AM: [2;31;43mПолетанскийВиктор changed task №5.4 state from "first solution sent" to "new submission sent"[0m
-2017-11-20 10:52:48 AM: [1;37;42mПолетанскийВиктор changed task №6.1 state from "first solution sent" to "solution accepted"[0m
-2017-11-20 10:52:48 AM: [1;32;45mПолетанскийВиктор changed task №6.3 state from "no submissions" to "first solution sent"[0m
-2017-11-20 10:52:48 AM: [1;32;45mПолетанскийВиктор changed task №7.1 state from "no submissions" to "first solution sent"[0m
-2017-11-20 10:52:48 AM: [1;32;45mПолетанскийВиктор changed task №7.2 state from "no submissions" to "first solution sent"[0m
-2017-11-20 10:52:48 AM: [1;32;45mПолетанскийВиктор changed task №7.3 state from "no submissions" to "first solution sent"[0m
-2017-11-20 10:52:48 AM: [1;32;45mПолетанскийВиктор changed task №8.1 state to "first solution sent"[0m
-2017-11-20 10:52:48 AM: [1;32;45mПолетанскийВиктор changed task №9.1 state to "first solution sent"[0m
-2017-11-20 10:52:48 AM: [1;32;45mПолетанскийВиктор changed task №9.2 state to "first solution sent"[0m
-2017-11-20 10:52:48 AM: [3;32;40mХодькоАндрей changed todos 18 to 23[0m
-2017-11-20 10:52:48 AM: [1;33;41mХодькоАндрей changed task Тест1.1 state from "new submission sent" to "added notes"[0m
-2017-11-20 10:52:48 AM: [1;33;41mХодькоАндрей changed task №4.1 state from "no submissions" to "added notes"[0m
-2017-11-20 10:52:48 AM: [2;31;43mХодькоАндрей changed task №4.2 state from "added notes" to "new submission sent"[0m
-2017-11-20 10:52:48 AM: [2;31;43mХодькоАндрей changed task №4.3 state from "added notes" to "new submission sent"[0m
-2017-11-20 10:52:48 AM: [2;31;43mХодькоАндрей changed task №4.4 state from "added notes" to "new submission sent"[0m
-2017-11-20 10:52:48 AM: [2;31;43mХодькоАндрей changed task №4.5 state from "added notes" to "new submission sent"[0m
-2017-11-20 10:52:48 AM: [2;31;43mХодькоАндрей changed task №5.4 state from "added notes" to "new submission sent"[0m
-2017-11-20 10:52:48 AM: [1;37;42mХодькоАндрей changed task №6.1 state from "first solution sent" to "solution accepted"[0m
-2017-11-20 10:52:48 AM: [1;32;45mХодькоАндрей changed task №6.2 state from "no submissions" to "first solution sent"[0m
-2017-11-20 10:52:48 AM: [1;32;45mХодькоАндрей changed task №6.3 state from "no submissions" to "first solution sent"[0m
-2017-11-20 10:52:48 AM: [1;32;45mХодькоАндрей changed task №7.1 state from "no submissions" to "first solution sent"[0m
-2017-11-20 10:52:48 AM: [3;32;40mШервашидзеГеоргий changed todos 20 to 22[0m
-2017-11-20 10:52:48 AM: [1;37;42mШервашидзеГеоргий changed task №2.4 state from "new submission sent" to "solution accepted"[0m
-2017-11-20 10:52:48 AM: [1;37;42mШервашидзеГеоргий changed task №3.1 state from "new submission sent" to "solution accepted"[0m
-2017-11-20 10:52:48 AM: [1;37;42mШервашидзеГеоргий changed task Тест1.1 state from "new submission sent" to "solution accepted"[0m
-2017-11-20 10:52:48 AM: [1;33;41mШервашидзеГеоргий changed task Тест1.2 state from "new submission sent" to "added notes"[0m
-2017-11-20 10:52:48 AM: [2;31;43mШервашидзеГеоргий changed task №4.1 state from "first solution sent" to "new submission sent"[0m
-2017-11-20 10:52:48 AM: [2;31;43mШервашидзеГеоргий changed task №4.2 state from "first solution sent" to "new submission sent"[0m
-2017-11-20 10:52:48 AM: [2;31;43mШервашидзеГеоргий changed task №4.3 state from "first solution sent" to "new submission sent"[0m
-2017-11-20 10:52:48 AM: [2;31;43mШервашидзеГеоргий changed task №4.4 state from "first solution sent" to "new submission sent"[0m
-2017-11-20 10:52:48 AM: [2;31;43mШервашидзеГеоргий changed task №4.5 state from "first solution sent" to "new submission sent"[0m
-2017-11-20 10:52:48 AM: [1;37;42mШервашидзеГеоргий changed task №6.1 state from "first solution sent" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: added pack №1: 
+2018-01-16 02:36:29 PM: added pack №2: 1, 2, 3, 4, 5
+2018-01-16 02:36:29 PM: added pack №3: 1, 2, 3, 4
+2018-01-16 02:36:29 PM: added pack Тест1: 1, 2
+2018-01-16 02:36:29 PM: added pack №4: 1, 2, 3, 4, 5
+2018-01-16 02:36:29 PM: added pack №5: 1, 2, 3, 4
+2018-01-16 02:36:29 PM: added pack №6: 1, 2, 3
+2018-01-16 02:36:29 PM: added pack №7: 1, 2, 3
+2018-01-16 02:36:29 PM: added pack №8: 1, 2, 3
+2018-01-16 02:36:29 PM: added pack №9: 1, 2, 3
+2018-01-16 02:36:29 PM: added pack Тест2: 1, 2, 3
+2018-01-16 02:36:29 PM: added pack №10: 1, 2
+2018-01-16 02:36:29 PM: added pack №11: 1
+2018-01-16 02:36:29 PM: added pack Тест3: 1, 2, 3
+2018-01-16 02:36:29 PM: БакироваАнна user appeared
+2018-01-16 02:36:29 PM: ДегтяревИван user appeared
+2018-01-16 02:36:29 PM: ДементьевАлександр user appeared
+2018-01-16 02:36:29 PM: ЗайцевДмитрий user appeared
+2018-01-16 02:36:29 PM: КидянкинМихаил user appeared
+2018-01-16 02:36:29 PM: КрупинаВалерия user appeared
+2018-01-16 02:36:29 PM: КузьминЮрий user appeared
+2018-01-16 02:36:29 PM: ЛеоноваАнна user appeared
+2018-01-16 02:36:29 PM: ПолетанскийВиктор user appeared
+2018-01-16 02:36:29 PM: ХодькоАндрей user appeared
+2018-01-16 02:36:29 PM: ШервашидзеГеоргий user appeared
+2018-01-16 02:36:29 PM: [1;37;42mБакироваАнна changed task №1. state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mБакироваАнна changed task №2.1 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mБакироваАнна changed task №2.2 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;33;41mБакироваАнна changed task №2.4 state from "no submissions" to "added notes"[0m
+2018-01-16 02:36:29 PM: [1;33;41mБакироваАнна changed task №2.5 state from "no submissions" to "added notes"[0m
+2018-01-16 02:36:29 PM: [1;33;41mБакироваАнна changed task №3.1 state from "no submissions" to "added notes"[0m
+2018-01-16 02:36:29 PM: [1;37;42mБакироваАнна changed task №3.2 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mБакироваАнна changed task №3.3 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;33;41mБакироваАнна changed task №3.4 state from "no submissions" to "added notes"[0m
+2018-01-16 02:36:29 PM: [1;37;42mБакироваАнна changed task Тест1.1 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;33;41mБакироваАнна changed task Тест1.2 state from "no submissions" to "added notes"[0m
+2018-01-16 02:36:29 PM: [1;37;42mБакироваАнна changed task №6.1 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mДегтяревИван changed task №1. state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mДегтяревИван changed task №2.1 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mДегтяревИван changed task №2.2 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mДегтяревИван changed task №2.3 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mДегтяревИван changed task №2.4 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mДегтяревИван changed task №2.5 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mДегтяревИван changed task №3.1 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mДегтяревИван changed task №3.2 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mДегтяревИван changed task №3.3 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mДегтяревИван changed task №3.4 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mДегтяревИван changed task Тест1.1 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mДегтяревИван changed task Тест1.2 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mДегтяревИван changed task №4.1 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mДегтяревИван changed task №4.2 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mДегтяревИван changed task №4.3 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mДегтяревИван changed task №4.4 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mДегтяревИван changed task №4.5 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mДегтяревИван changed task №5.1 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mДегтяревИван changed task №5.2 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mДегтяревИван changed task №5.3 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mДегтяревИван changed task №5.4 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mДегтяревИван changed task №6.1 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mДегтяревИван changed task №6.2 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mДегтяревИван changed task №6.3 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mДегтяревИван changed task №7.1 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mДегтяревИван changed task №7.2 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mДегтяревИван changed task №7.3 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mДегтяревИван changed task №8.1 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mДегтяревИван changed task №8.2 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mДегтяревИван changed task №8.3 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mДегтяревИван changed task №9.1 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mДегтяревИван changed task №9.2 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mДегтяревИван changed task №9.3 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mДегтяревИван changed task Тест2.1 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mДегтяревИван changed task Тест2.2 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mДегтяревИван changed task Тест2.3 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mДегтяревИван changed task №10.1 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mДегтяревИван changed task №10.2 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mДегтяревИван changed task №11.1 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mДегтяревИван changed task Тест3.1 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mДегтяревИван changed task Тест3.2 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mДегтяревИван changed task Тест3.3 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mДементьевАлександр changed task №1. state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mДементьевАлександр changed task №2.1 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mДементьевАлександр changed task №2.2 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mДементьевАлександр changed task №2.3 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mДементьевАлександр changed task №2.4 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mДементьевАлександр changed task №2.5 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mДементьевАлександр changed task №3.1 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mДементьевАлександр changed task №3.2 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [2;31;43mДементьевАлександр changed task №3.3 state from "no submissions" to "new submission sent"[0m
+2018-01-16 02:36:29 PM: [2;31;43mДементьевАлександр changed task №3.4 state from "no submissions" to "new submission sent"[0m
+2018-01-16 02:36:29 PM: [2;31;43mДементьевАлександр changed task Тест1.1 state from "no submissions" to "new submission sent"[0m
+2018-01-16 02:36:29 PM: [1;37;42mДементьевАлександр changed task Тест1.2 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [2;31;43mДементьевАлександр changed task №4.1 state from "no submissions" to "new submission sent"[0m
+2018-01-16 02:36:29 PM: [1;37;42mДементьевАлександр changed task №4.2 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [2;31;43mДементьевАлександр changed task №4.3 state from "no submissions" to "new submission sent"[0m
+2018-01-16 02:36:29 PM: [2;31;43mДементьевАлександр changed task №4.4 state from "no submissions" to "new submission sent"[0m
+2018-01-16 02:36:29 PM: [2;31;43mДементьевАлександр changed task №4.5 state from "no submissions" to "new submission sent"[0m
+2018-01-16 02:36:29 PM: [1;37;42mДементьевАлександр changed task №5.1 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mДементьевАлександр changed task №5.2 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mДементьевАлександр changed task №5.3 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [2;31;43mДементьевАлександр changed task №5.4 state from "no submissions" to "new submission sent"[0m
+2018-01-16 02:36:29 PM: [1;37;42mДементьевАлександр changed task №6.1 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [2;31;43mДементьевАлександр changed task №6.2 state from "no submissions" to "new submission sent"[0m
+2018-01-16 02:36:29 PM: [1;33;41mДементьевАлександр changed task №6.3 state from "no submissions" to "added notes"[0m
+2018-01-16 02:36:29 PM: [2;31;43mДементьевАлександр changed task №7.1 state from "no submissions" to "new submission sent"[0m
+2018-01-16 02:36:29 PM: [2;31;43mДементьевАлександр changed task №7.2 state from "no submissions" to "new submission sent"[0m
+2018-01-16 02:36:29 PM: [2;31;43mДементьевАлександр changed task №7.3 state from "no submissions" to "new submission sent"[0m
+2018-01-16 02:36:29 PM: [2;31;43mДементьевАлександр changed task №8.1 state from "no submissions" to "new submission sent"[0m
+2018-01-16 02:36:29 PM: [1;33;41mДементьевАлександр changed task №8.2 state from "no submissions" to "added notes"[0m
+2018-01-16 02:36:29 PM: [1;37;42mДементьевАлександр changed task №8.3 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mДементьевАлександр changed task №9.1 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;32;45mДементьевАлександр changed task №9.2 state from "no submissions" to "first solution sent"[0m
+2018-01-16 02:36:29 PM: [1;32;45mДементьевАлександр changed task №9.3 state from "no submissions" to "first solution sent"[0m
+2018-01-16 02:36:29 PM: [1;37;42mДементьевАлександр changed task Тест2.1 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mДементьевАлександр changed task Тест2.2 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;33;41mДементьевАлександр changed task Тест2.3 state from "no submissions" to "added notes"[0m
+2018-01-16 02:36:29 PM: [1;32;45mДементьевАлександр changed task №10.1 state from "no submissions" to "first solution sent"[0m
+2018-01-16 02:36:29 PM: [1;32;45mДементьевАлександр changed task №10.2 state from "no submissions" to "first solution sent"[0m
+2018-01-16 02:36:29 PM: [1;32;45mДементьевАлександр changed task №11.1 state from "no submissions" to "first solution sent"[0m
+2018-01-16 02:36:29 PM: [1;37;42mДементьевАлександр changed task Тест3.1 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mДементьевАлександр changed task Тест3.2 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mДементьевАлександр changed task Тест3.3 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mЗайцевДмитрий changed task №1. state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mЗайцевДмитрий changed task №2.1 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mЗайцевДмитрий changed task №2.2 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mЗайцевДмитрий changed task №2.3 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mЗайцевДмитрий changed task №2.4 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mЗайцевДмитрий changed task №2.5 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mЗайцевДмитрий changed task №3.1 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mЗайцевДмитрий changed task №3.2 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mЗайцевДмитрий changed task №3.3 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mЗайцевДмитрий changed task №3.4 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mЗайцевДмитрий changed task Тест1.1 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;33;41mЗайцевДмитрий changed task Тест1.2 state from "no submissions" to "added notes"[0m
+2018-01-16 02:36:29 PM: [1;37;42mЗайцевДмитрий changed task №4.1 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [2;31;43mЗайцевДмитрий changed task №4.2 state from "no submissions" to "new submission sent"[0m
+2018-01-16 02:36:29 PM: [1;37;42mЗайцевДмитрий changed task №4.3 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mЗайцевДмитрий changed task №4.4 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [2;31;43mЗайцевДмитрий changed task №4.5 state from "no submissions" to "new submission sent"[0m
+2018-01-16 02:36:29 PM: [1;37;42mЗайцевДмитрий changed task №5.1 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [2;31;43mЗайцевДмитрий changed task №5.2 state from "no submissions" to "new submission sent"[0m
+2018-01-16 02:36:29 PM: [1;37;42mЗайцевДмитрий changed task №5.3 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mЗайцевДмитрий changed task №5.4 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mЗайцевДмитрий changed task №6.1 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mЗайцевДмитрий changed task №6.2 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [2;31;43mЗайцевДмитрий changed task №6.3 state from "no submissions" to "new submission sent"[0m
+2018-01-16 02:36:29 PM: [2;31;43mЗайцевДмитрий changed task №7.1 state from "no submissions" to "new submission sent"[0m
+2018-01-16 02:36:29 PM: [2;31;43mЗайцевДмитрий changed task №7.2 state from "no submissions" to "new submission sent"[0m
+2018-01-16 02:36:29 PM: [1;37;42mЗайцевДмитрий changed task №7.3 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mЗайцевДмитрий changed task №8.1 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mЗайцевДмитрий changed task №8.2 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [2;31;43mЗайцевДмитрий changed task №8.3 state from "no submissions" to "new submission sent"[0m
+2018-01-16 02:36:29 PM: [2;31;43mЗайцевДмитрий changed task №9.1 state from "no submissions" to "new submission sent"[0m
+2018-01-16 02:36:29 PM: [1;32;45mЗайцевДмитрий changed task №9.2 state from "no submissions" to "first solution sent"[0m
+2018-01-16 02:36:29 PM: [1;32;45mЗайцевДмитрий changed task №9.3 state from "no submissions" to "first solution sent"[0m
+2018-01-16 02:36:29 PM: [1;37;42mЗайцевДмитрий changed task Тест2.1 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;33;41mЗайцевДмитрий changed task Тест2.2 state from "no submissions" to "added notes"[0m
+2018-01-16 02:36:29 PM: [1;33;41mЗайцевДмитрий changed task Тест2.3 state from "no submissions" to "added notes"[0m
+2018-01-16 02:36:29 PM: [1;32;45mЗайцевДмитрий changed task №10.1 state from "no submissions" to "first solution sent"[0m
+2018-01-16 02:36:29 PM: [2;31;43mЗайцевДмитрий changed task №10.2 state from "no submissions" to "new submission sent"[0m
+2018-01-16 02:36:29 PM: [2;31;43mЗайцевДмитрий changed task №11.1 state from "no submissions" to "new submission sent"[0m
+2018-01-16 02:36:29 PM: [1;37;42mЗайцевДмитрий changed task Тест3.1 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mЗайцевДмитрий changed task Тест3.2 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mЗайцевДмитрий changed task Тест3.3 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mКидянкинМихаил changed task №1. state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mКидянкинМихаил changed task №2.1 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mКидянкинМихаил changed task №2.2 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mКидянкинМихаил changed task №2.3 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mКидянкинМихаил changed task №2.4 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mКидянкинМихаил changed task №2.5 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mКидянкинМихаил changed task №3.1 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mКидянкинМихаил changed task №3.2 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mКидянкинМихаил changed task №3.3 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mКидянкинМихаил changed task №3.4 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mКидянкинМихаил changed task Тест1.1 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mКидянкинМихаил changed task Тест1.2 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mКидянкинМихаил changed task №4.1 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mКидянкинМихаил changed task №4.2 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mКидянкинМихаил changed task №4.3 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mКидянкинМихаил changed task №4.4 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mКидянкинМихаил changed task №4.5 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mКидянкинМихаил changed task №5.1 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mКидянкинМихаил changed task №5.2 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mКидянкинМихаил changed task №5.3 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mКидянкинМихаил changed task №5.4 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mКидянкинМихаил changed task №6.1 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mКидянкинМихаил changed task №6.2 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mКидянкинМихаил changed task №6.3 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mКидянкинМихаил changed task №7.1 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mКидянкинМихаил changed task №7.2 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mКидянкинМихаил changed task №7.3 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mКидянкинМихаил changed task №8.1 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mКидянкинМихаил changed task №8.2 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mКидянкинМихаил changed task №8.3 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mКидянкинМихаил changed task №9.1 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mКидянкинМихаил changed task №9.2 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mКидянкинМихаил changed task №9.3 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mКидянкинМихаил changed task Тест2.1 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mКидянкинМихаил changed task Тест2.2 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mКидянкинМихаил changed task Тест2.3 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mКидянкинМихаил changed task №10.1 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mКидянкинМихаил changed task №10.2 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mКидянкинМихаил changed task №11.1 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mКидянкинМихаил changed task Тест3.1 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mКидянкинМихаил changed task Тест3.2 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mКидянкинМихаил changed task Тест3.3 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mКрупинаВалерия changed task №1. state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mКрупинаВалерия changed task №2.1 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mКрупинаВалерия changed task №2.2 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mКрупинаВалерия changed task №2.3 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mКрупинаВалерия changed task №2.4 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mКрупинаВалерия changed task №2.5 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mКрупинаВалерия changed task №3.1 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mКрупинаВалерия changed task №3.2 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mКрупинаВалерия changed task №3.3 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mКрупинаВалерия changed task №3.4 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mКрупинаВалерия changed task №4.1 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mКрупинаВалерия changed task №4.2 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;33;41mКрупинаВалерия changed task №4.3 state from "no submissions" to "added notes"[0m
+2018-01-16 02:36:29 PM: [1;33;41mКрупинаВалерия changed task №5.4 state from "no submissions" to "added notes"[0m
+2018-01-16 02:36:29 PM: [1;37;42mКрупинаВалерия changed task №6.1 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;33;41mКрупинаВалерия changed task №7.1 state from "no submissions" to "added notes"[0m
+2018-01-16 02:36:29 PM: [1;37;42mКузьминЮрий changed task №1. state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mКузьминЮрий changed task №2.1 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mКузьминЮрий changed task №2.2 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mКузьминЮрий changed task №2.3 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mКузьминЮрий changed task №2.4 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mКузьминЮрий changed task №2.5 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mКузьминЮрий changed task №3.1 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mКузьминЮрий changed task №3.2 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mКузьминЮрий changed task №3.3 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mКузьминЮрий changed task №3.4 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mКузьминЮрий changed task Тест1.1 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mКузьминЮрий changed task Тест1.2 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mКузьминЮрий changed task №4.1 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mКузьминЮрий changed task №4.2 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mКузьминЮрий changed task №4.3 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mКузьминЮрий changed task №4.4 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mКузьминЮрий changed task №4.5 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mКузьминЮрий changed task №5.1 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mКузьминЮрий changed task №5.2 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mКузьминЮрий changed task №5.3 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mКузьминЮрий changed task №5.4 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mКузьминЮрий changed task №6.1 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mКузьминЮрий changed task №6.2 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mКузьминЮрий changed task №6.3 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mКузьминЮрий changed task №7.1 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mКузьминЮрий changed task №7.2 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mКузьминЮрий changed task №7.3 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mКузьминЮрий changed task №8.1 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mКузьминЮрий changed task №8.2 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mКузьминЮрий changed task №8.3 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mКузьминЮрий changed task №9.1 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mКузьминЮрий changed task №9.2 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mКузьминЮрий changed task №9.3 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mКузьминЮрий changed task Тест2.1 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mКузьминЮрий changed task Тест2.2 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mКузьминЮрий changed task Тест2.3 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mКузьминЮрий changed task №10.1 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mКузьминЮрий changed task №10.2 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mКузьминЮрий changed task №11.1 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mКузьминЮрий changed task Тест3.1 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mКузьминЮрий changed task Тест3.2 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mКузьминЮрий changed task Тест3.3 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mЛеоноваАнна changed task №1. state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mЛеоноваАнна changed task №2.1 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mЛеоноваАнна changed task №2.2 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mЛеоноваАнна changed task №2.3 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mЛеоноваАнна changed task №2.4 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mЛеоноваАнна changed task №2.5 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [2;31;43mЛеоноваАнна changed task №3.1 state from "no submissions" to "new submission sent"[0m
+2018-01-16 02:36:29 PM: [1;37;42mЛеоноваАнна changed task №3.2 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mЛеоноваАнна changed task №3.3 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mЛеоноваАнна changed task №4.1 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mЛеоноваАнна changed task №4.2 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [2;31;43mЛеоноваАнна changed task №4.3 state from "no submissions" to "new submission sent"[0m
+2018-01-16 02:36:29 PM: [2;31;43mЛеоноваАнна changed task №4.4 state from "no submissions" to "new submission sent"[0m
+2018-01-16 02:36:29 PM: [1;33;41mЛеоноваАнна changed task №4.5 state from "no submissions" to "added notes"[0m
+2018-01-16 02:36:29 PM: [1;32;45mЛеоноваАнна changed task №5.2 state from "no submissions" to "first solution sent"[0m
+2018-01-16 02:36:29 PM: [2;31;43mЛеоноваАнна changed task №5.3 state from "no submissions" to "new submission sent"[0m
+2018-01-16 02:36:29 PM: [1;33;41mЛеоноваАнна changed task №5.4 state from "no submissions" to "added notes"[0m
+2018-01-16 02:36:29 PM: [1;37;42mЛеоноваАнна changed task №6.1 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mПолетанскийВиктор changed task №1. state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mПолетанскийВиктор changed task №2.1 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mПолетанскийВиктор changed task №2.2 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mПолетанскийВиктор changed task №2.3 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mПолетанскийВиктор changed task №2.4 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mПолетанскийВиктор changed task №2.5 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mПолетанскийВиктор changed task №3.1 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mПолетанскийВиктор changed task №3.2 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mПолетанскийВиктор changed task №3.3 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mПолетанскийВиктор changed task №3.4 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mПолетанскийВиктор changed task Тест1.1 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mПолетанскийВиктор changed task Тест1.2 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mПолетанскийВиктор changed task №4.1 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mПолетанскийВиктор changed task №4.2 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mПолетанскийВиктор changed task №4.3 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mПолетанскийВиктор changed task №4.4 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mПолетанскийВиктор changed task №4.5 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mПолетанскийВиктор changed task №5.1 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mПолетанскийВиктор changed task №5.2 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mПолетанскийВиктор changed task №5.3 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mПолетанскийВиктор changed task №5.4 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mПолетанскийВиктор changed task №6.1 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mПолетанскийВиктор changed task №6.2 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mПолетанскийВиктор changed task №6.3 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mПолетанскийВиктор changed task №7.1 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mПолетанскийВиктор changed task №7.2 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mПолетанскийВиктор changed task №7.3 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mПолетанскийВиктор changed task №8.1 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mПолетанскийВиктор changed task №8.2 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mПолетанскийВиктор changed task №8.3 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mПолетанскийВиктор changed task №9.1 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mПолетанскийВиктор changed task №9.2 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mПолетанскийВиктор changed task №9.3 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mПолетанскийВиктор changed task Тест2.1 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mПолетанскийВиктор changed task Тест2.2 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mПолетанскийВиктор changed task Тест2.3 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mПолетанскийВиктор changed task №10.1 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mПолетанскийВиктор changed task №10.2 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mПолетанскийВиктор changed task №11.1 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mПолетанскийВиктор changed task Тест3.1 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mПолетанскийВиктор changed task Тест3.2 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mПолетанскийВиктор changed task Тест3.3 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mХодькоАндрей changed task №1. state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mХодькоАндрей changed task №2.1 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mХодькоАндрей changed task №2.2 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mХодькоАндрей changed task №2.3 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mХодькоАндрей changed task №2.4 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mХодькоАндрей changed task №2.5 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mХодькоАндрей changed task №3.1 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mХодькоАндрей changed task №3.2 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mХодькоАндрей changed task №3.3 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mХодькоАндрей changed task №3.4 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mХодькоАндрей changed task Тест1.1 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mХодькоАндрей changed task Тест1.2 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mХодькоАндрей changed task №4.1 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mХодькоАндрей changed task №4.2 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mХодькоАндрей changed task №4.3 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mХодькоАндрей changed task №4.4 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mХодькоАндрей changed task №4.5 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mХодькоАндрей changed task №5.1 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mХодькоАндрей changed task №5.2 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mХодькоАндрей changed task №5.3 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mХодькоАндрей changed task №5.4 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mХодькоАндрей changed task №6.1 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mХодькоАндрей changed task №6.2 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mХодькоАндрей changed task №6.3 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mХодькоАндрей changed task №7.1 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mХодькоАндрей changed task №7.2 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mХодькоАндрей changed task №7.3 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mХодькоАндрей changed task №8.1 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mХодькоАндрей changed task №8.2 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mХодькоАндрей changed task №8.3 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mХодькоАндрей changed task №9.1 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mХодькоАндрей changed task №9.2 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mХодькоАндрей changed task №9.3 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mХодькоАндрей changed task Тест2.1 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mХодькоАндрей changed task Тест2.2 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mХодькоАндрей changed task Тест2.3 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mХодькоАндрей changed task №10.1 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mХодькоАндрей changed task №10.2 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mХодькоАндрей changed task №11.1 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mХодькоАндрей changed task Тест3.1 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mХодькоАндрей changed task Тест3.2 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mХодькоАндрей changed task Тест3.3 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mШервашидзеГеоргий changed task №1. state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mШервашидзеГеоргий changed task №2.1 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mШервашидзеГеоргий changed task №2.2 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mШервашидзеГеоргий changed task №2.3 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mШервашидзеГеоргий changed task №2.4 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mШервашидзеГеоргий changed task №2.5 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mШервашидзеГеоргий changed task №3.1 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mШервашидзеГеоргий changed task №3.2 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mШервашидзеГеоргий changed task №3.3 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mШервашидзеГеоргий changed task №3.4 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mШервашидзеГеоргий changed task Тест1.1 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mШервашидзеГеоргий changed task Тест1.2 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mШервашидзеГеоргий changed task №4.1 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mШервашидзеГеоргий changed task №4.2 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mШервашидзеГеоргий changed task №4.3 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mШервашидзеГеоргий changed task №4.4 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mШервашидзеГеоргий changed task №4.5 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mШервашидзеГеоргий changed task №5.1 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mШервашидзеГеоргий changed task №5.2 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mШервашидзеГеоргий changed task №5.3 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mШервашидзеГеоргий changed task №5.4 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mШервашидзеГеоргий changed task №6.1 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mШервашидзеГеоргий changed task №6.2 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mШервашидзеГеоргий changed task №6.3 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mШервашидзеГеоргий changed task №7.1 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mШервашидзеГеоргий changed task №7.2 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mШервашидзеГеоргий changed task №7.3 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mШервашидзеГеоргий changed task №8.1 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mШервашидзеГеоргий changed task №8.2 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mШервашидзеГеоргий changed task №8.3 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mШервашидзеГеоргий changed task №9.1 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mШервашидзеГеоргий changed task №9.2 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mШервашидзеГеоргий changed task №9.3 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mШервашидзеГеоргий changed task Тест2.1 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mШервашидзеГеоргий changed task Тест2.2 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mШервашидзеГеоргий changed task Тест2.3 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mШервашидзеГеоргий changed task №10.1 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mШервашидзеГеоргий changed task №10.2 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mШервашидзеГеоргий changed task №11.1 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mШервашидзеГеоргий changed task Тест3.1 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mШервашидзеГеоргий changed task Тест3.2 state from "no submissions" to "solution accepted"[0m
+2018-01-16 02:36:29 PM: [1;37;42mШервашидзеГеоргий changed task Тест3.3 state from "no submissions" to "solution accepted"[0m
