@@ -3,10 +3,11 @@
     (>->
         (dir
         ls-r
-        (*map (lambda (x) 
-            (map
-                (# (+ (car x) "/" %))
-                (cadr x))) %%)
+        (*map
+            (# (map
+                (lambda (x) (+ (car %) "/" x))
+                (cadr %)))
+            %%)
         (map (juxt (id path-getsize)) %%)
         (sorted-by %% cadr)
         (drop to-drop %%)
