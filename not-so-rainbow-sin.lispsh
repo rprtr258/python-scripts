@@ -1,0 +1,6 @@
+(defun rainbow (s)
+    (doseq
+        (k (map (# (int (* (inc (cos (/ % 4))) (/ (len s) 2)))) (range 30)))
+        (echo (* " " k) s)))
+
+(rainbow (* "A" 10))
