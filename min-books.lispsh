@@ -1,0 +1,23 @@
+; print first (to-show) files and their sizes after first (to-drop) entries in (dir)
+(defun min-files (to-drop to-show dir)
+    (doseq
+        (x
+            (take to-show (drop to-drop (sorted-by
+                (*map
+                    (lambda (x)
+                        (let
+                           (dir-name (car x)
+                           files (cadr x))
+                           (map
+                               (# (let
+                                   (full-file-name (join "/" (list dir-name %)))
+                                   (list
+                                       full-file-name
+                                       (path-getsize full-file-name))))
+                               files)))
+                    (ls-r "."))
+                cadr))))
+    (echo (car x) " " (cadr x))))
+
+; example usage
+(min-files 10 10 ".")
